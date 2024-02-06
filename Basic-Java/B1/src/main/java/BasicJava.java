@@ -22,7 +22,7 @@ public class BasicJava {
         System.out.println("Tab: \t" + 1);
 //        double quote with \"
         System.out.println(" \"Printing Double Quote\" ");
-//        single quote with \'
+//        single quote with '
         System.out.println(" 'Printing Single Quote' ");
     }
 }
