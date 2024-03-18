@@ -1,5 +1,0 @@
-x4.NUSRaa32tYGn
-
-
-
-mysql -u root -p
